@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/E-comerse/static/css/main.f4986288.css",
+    "main.js": "/E-comerse/static/js/main.21b55776.js",
+    "static/js/787.6bc07b2a.chunk.js": "/E-comerse/static/js/787.6bc07b2a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/E-comerse/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/E-comerse/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/E-comerse/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/slider-3.jpg": "/E-comerse/static/media/slider-3.b76ef2a439314fa45529.jpg",
+    "static/media/slider-1.jpg": "/E-comerse/static/media/slider-1.5e64aa6dfbe741f6ae92.jpg",
+    "static/media/fa-brands-400.woff2": "/E-comerse/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/slider-5.jpg": "/E-comerse/static/media/slider-5.881c88da8c60475b222d.jpg",
+    "static/media/fa-regular-400.ttf": "/E-comerse/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/slider-2.jpg": "/E-comerse/static/media/slider-2.c4fb872dbb53ea19398d.jpg",
+    "static/media/fa-regular-400.woff2": "/E-comerse/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/slider-4.jpg": "/E-comerse/static/media/slider-4.6e1c41b6c5d91035d3ff.jpg",
+    "static/media/logo.png": "/E-comerse/static/media/logo.6eb9785f1b670cf2d91f.png",
+    "static/media/fa-v4compatibility.ttf": "/E-comerse/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-comerse/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/E-comerse/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-comerse/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-comerse/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-comerse/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-comerse/index.html",
+    "main.f4986288.css.map": "/E-comerse/static/css/main.f4986288.css.map",
+    "main.21b55776.js.map": "/E-comerse/static/js/main.21b55776.js.map",
+    "787.6bc07b2a.chunk.js.map": "/E-comerse/static/js/787.6bc07b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4986288.css",
+    "static/js/main.21b55776.js"
+  ]
+}
