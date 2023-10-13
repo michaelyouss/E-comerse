@@ -1,0 +1,9 @@
+{
+    "window.ZoomLevel":2,
+    "editor.formatOnSave":true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.defaultOptions": {
+        
+
+    },
+}

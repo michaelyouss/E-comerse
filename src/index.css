@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@200;400;600;800&display=swap');
+
+:root {
+  --mine-color: #0aad0a !important;
+  --light-color: #f0f3f2;
+  --shadow: rgba(145, 158, 171, .2) 0px 2px 4px -1px, rgba(145, 158, 171, .14) 0px 4px 5px -1px;
+  --font-family: 'Encode Sans Condensed', sans-serif;
+  --rating-color: #ffc908;
+}
+
+
+
+body {
+  font-family: var(--font-family) !important;
+}
+
+.rating-color {
+  color: var(--rating-color);
+}
+
+.network {
+  padding: 20px;
+  background-color: #fff;
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 9999;
+  box-shadow: var(--shadow);
+
+}
+
+.bor-main {
+  border: solid 1px var(--mine-color) !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+a {
+  color: black !important;
+}
+
+a,
+a:hover {
+  text-decoration: none !important;
+}
+
+
+.product:hover {
+  transition: border 2s;
+  box-shadow: var(--shadow);
+  border: solid 2px var(--mine-color);
+}
+
+.product .btn {
+  transition: transform 1.5s, opacity 1.5s;
+  transform: translateY(60%);
+  opacity: 0;
+}
+
+.product:hover .btn {
+  opacity: 1;
+  transform: translateY(0%);
+}
+
+.font-sm {
+  font-size: 14px;
+}
+
+.text-main {
+  color: var(--mine-color) !important;
+}
+
+.bg-main {
+  background-color: var(--mine-color) !important;
+}
+
+.bg-main-light {
+  background-color: var(--light-color) !important;
+}
