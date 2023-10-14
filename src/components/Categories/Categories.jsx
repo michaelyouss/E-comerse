@@ -3,7 +3,10 @@ import style from "./Categories.module.css"
 
 export default function Categories() {
     return<>
-            <h2>Categories</h2>
+    <div className='min-vh-100'>
+    <h2>Categories</h2>
+    </div>
+           
         </>
 
 }

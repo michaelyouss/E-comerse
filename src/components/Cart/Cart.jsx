@@ -34,7 +34,8 @@ export default function Cart() {
   }, []);
 
   return (
-    <>
+    < div className="min-vh-100">
+
       {cardDetails ? (
         <div className='pt-5'>
           <div className=' mx-auto my-2 p-3 bg-main-light'>
@@ -123,6 +124,6 @@ export default function Cart() {
           />
         </section>
       )}
-    </>
+    </div>
   );
 }

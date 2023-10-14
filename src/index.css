@@ -12,6 +12,7 @@
 
 body {
   font-family: var(--font-family) !important;
+  
 }
 
 .rating-color {
@@ -78,4 +79,7 @@ a:hover {
 
 .bg-main-light {
   background-color: var(--light-color) !important;
+}
+.logo-brand{
+  width: 60px;
 }

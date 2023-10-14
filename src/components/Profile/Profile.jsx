@@ -27,7 +27,7 @@ let {userDataProfil} = useContext(logNav)
 
   return (
 
-<div className='pt-5'>
+<div className='pt-5 min-vh-100'>
       <h2 className='pt-5'> Hello : {userDataProfil?.name}</h2>
       <h2 className='pt-5'> email : {userDataProfil?.email}</h2>
     
